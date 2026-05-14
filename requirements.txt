@@ -1,7 +1,4 @@
 pyTelegramBotAPI
 yt-dlp
-aiohttp
-ffmpeg-python
 Flask
-requests
-python-dotenv
+gunicorn
